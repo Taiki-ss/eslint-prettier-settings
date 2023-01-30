@@ -3,16 +3,16 @@ Compile frequently used eslint and prettier configuration files.
 
 ## How
 
-install command
+### install command
 ```
 npm install eslint prettier eslint-config-prettier eslint-plugin-prettier --save-dev
 ```
 
-vscode plugins
-https://github.com/Microsoft/vscode-eslint
+### vscode plugins
+https://github.com/Microsoft/vscode-eslint  
 https://github.com/prettier/prettier-vscode
 
-vscode setting.json
+### vscode setting.json
 ```
 "[javascript]": {
 	"editor.defaultFormatter": "esbenp.prettier-vscode"
